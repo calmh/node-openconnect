@@ -2,7 +2,7 @@
   "author": "Jakob Borg <jakob@nym.se> (http://nym.se/)",
   "name": "openconnect",
   "description": "Handle Cisco SSL VPNs with OpenConnect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/calmh/node-openconnect",
   "repository": {
     "type": "git",
