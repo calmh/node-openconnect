@@ -12,7 +12,7 @@
   "dependencies": {
     "debuggable": "~1.0.0",
     "inpath": "~1.0.2",
-    "kext": "~1.0.1",
+    "kext": "~1.1.0",
     "sudo": "~1.0.2"
   },
   "devDependencies": {},
