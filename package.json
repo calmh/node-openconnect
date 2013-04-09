@@ -10,10 +10,10 @@
   },
   "main": "lib/openconnect.js",
   "dependencies": {
-    "debuggable": "~1.0.0",
     "inpath": "~1.0.2",
     "kext": "~1.1.0",
-    "sudo": "~1.0.2"
+    "sudo": "~1.0.2",
+    "yacon": "~1.0.1"
   },
   "devDependencies": {},
   "optionalDependencies": {},
