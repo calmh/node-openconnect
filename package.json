@@ -11,7 +11,7 @@
   "main": "lib/openconnect.js",
   "dependencies": {
     "inpath": "~1.0.2",
-    "kext": "~1.1.0",
+    "kext": "~1.1.2",
     "sudo": "~1.0.2",
     "yacon": "~1.0.1"
   },
